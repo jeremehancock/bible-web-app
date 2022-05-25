@@ -1,0 +1,21 @@
+# Gambas Project File 3.0
+Title=BibleWebApp
+Startup=FMain
+Version=0.0.3
+Component=gb.image
+Component=gb.gui
+Component=gb.form
+Component=gb.gui.webview
+TabSize=2
+Language=en_US
+Maintainer=Jereme Hancock
+Address=support@ubuntuce.com
+Url=ubuntuce.com
+License=General Public License
+PackageName=bible-web-app-0.0.3
+Packager=1
+Systems=ubuntu
+Menus=ubuntu:"Applications/Education"
+Categories=ubuntu:"Education"
+Groups=ubuntu:"utils"
+ExtraDependencies=ubuntu:"gambas3-gb-gtk3-webview\t\t\ngambas3-gb-gtk3-wayland\t\t\ngambas3-gb-gui\t\t\ngambas3-gb-gtk3-x11\t\t"

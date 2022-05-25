@@ -1,0 +1,13 @@
+# Gambas Form File 3.0
+
+{ Form Form
+  MoveScaled(0,0,150,100)
+  Expand = True
+  Arrangement = Arrange.Fill
+  AutoResize = True
+  { BibleWebApp WebView
+    MoveScaled(0,0,150,100)
+    Expand = True
+    Url = "https://biblewebapp.com/study/"
+  }
+}
