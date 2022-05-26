@@ -1,7 +1,8 @@
 # Gambas Project File 3.0
 Title=BibleWebApp
 Startup=FMain
-Version=0.0.3
+Icon=bible-web-app.png
+Version=0.0.5
 Component=gb.image
 Component=gb.gui
 Component=gb.form
@@ -12,7 +13,7 @@ Maintainer=Jereme Hancock
 Address=support@ubuntuce.com
 Url=ubuntuce.com
 License=General Public License
-PackageName=bible-web-app-0.0.3
+PackageName=bible-web-app-0.0.5
 Packager=1
 Systems=ubuntu
 Menus=ubuntu:"Applications/Education"
